@@ -22,7 +22,7 @@ Each of these Libraries adds functionality to M2 as summarized here:
 
  * `SamNonDuePin` Gives M2 access to "non-Due" pins.
 
- * `SW_CAN` Single Wire CAN (GMLAN) give M2 signle-wire CAN functionality. Uses external MCP2515 tranciever connected to SAM3X via SPI. Library currently includes an example of sendind SW CAN messege. 
+ * `SW_CAN` Single Wire CAN (GMLAN) give M2 signle-wire CAN functionality. Uses external MCP2515 transceiver connected to SAM3X via SPI. Library currently includes an example of sendind SW CAN messege. 
 
 
 ##### For CAN functionality, use the excellent library:
