@@ -1,3 +1,6 @@
+**This is an obsolete repository that has not yet been deleted.  Please use the [Libraries page on the Macchina Community Showcase](https://macchina.github.io/showcase/libraries.html) to find libraries for the M2.**
+
+___
 ## Macchina M2 Libraries
 
 Here is where we will be keeping all of our M2 code. We encourage you to make suggestions, make pull requests, and generally get involved! Thanks for visiting.
